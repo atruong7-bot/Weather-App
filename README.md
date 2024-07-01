@@ -11,6 +11,14 @@ This Weather App provides real-time weather information for any city. Users can 
 - Display of temperature, humidity, wind speed, and weather conditions with icons
 - Default weather data for Houston on initial load
 
+## Technologies
+
+- HTML | CSS
+- JavaScript
+- Node.js
+- React
+- OpenWeatherMap API
+
 ## Getting Started
 
 ### Prerequisites
