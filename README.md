@@ -26,13 +26,8 @@ This Weather App provides real-time weather information for any city. Users can 
 - Node.js and npm installed on your machine
 - API key from OpenWeatherMap
 
-## Project Structure
-
-- `src/`: Contains all source code
-  - `components/`: Contains the Weather component
-  - `assets/`: Contains icons used in the app
-  - `App.jsx`: Main app component
-  - `main.jsx`: Entry point for the React app
-- `public/`: Contains the HTML template
-
 <img width="1710" alt="Screenshot 2024-07-01 at 4 48 40 PM" src="https://github.com/atruong7-bot/Weather-App/assets/89700834/76043da7-26bb-43da-bfef-59ff1827f77f">
+
+<img width="1709" alt="Screenshot 2024-07-01 at 4 53 45 PM" src="https://github.com/atruong7-bot/Weather-App/assets/89700834/1241be48-5345-4194-b7ee-162e5303a354">
+
+<img width="1710" alt="Screenshot 2024-07-01 at 4 54 24 PM" src="https://github.com/atruong7-bot/Weather-App/assets/89700834/17a9f37c-119f-4768-ab67-221faf0d7a52">
