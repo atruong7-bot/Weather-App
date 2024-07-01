@@ -1,17 +1,28 @@
-Weather App README
+# Weather App README
 
-Overview
+## Overview
 
 This Weather App provides real-time weather information for any city. Users can search for a city to get details like temperature, humidity, wind speed, and weather conditions displayed with appropriate icons.
 
-Features
+## Features
 
-Real-time weather data
-Search functionality for any city
-Display of temperature, humidity, wind speed, and weather conditions with icons
-Default weather data for Houston on initial load
-Getting Started
+- Real-time weather data
+- Search functionality for any city
+- Display of temperature, humidity, wind speed, and weather conditions with icons
+- Default weather data for Houston on initial load
 
-Prerequisites
-Node.js and npm installed on your machine
-API key from OpenWeatherMap
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+- API key from OpenWeatherMap
+
+## Project Structure
+
+src/: Contains all source code
+components/: Contains the Weather component
+assets/: Contains icons used in the app
+App.jsx: Main app component
+main.jsx: Entry point for the React app
+public/: Contains the HTML template
