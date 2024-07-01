@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Weather App provides real-time weather information for any city. Users can search for a city to get details like temperature, humidity, wind speed, and weather conditions displayed with appropriate icons. To make this weather app, I used this tutorial by GreatStack: https://www.youtube.com/watch?v=zs1Nq2s_uy4&t=2786s
+This Weather App provides real-time weather information for any city. Users can search for a city to get details like temperature, humidity, wind speed, and weather conditions displayed with appropriate icons. To make this weather app, I used this tutorial on youtube by GreatStack: https://www.youtube.com/watch?v=zs1Nq2s_uy4&t=2786s
 
 ## Features
 
