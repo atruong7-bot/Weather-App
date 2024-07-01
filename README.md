@@ -20,9 +20,10 @@ This Weather App provides real-time weather information for any city. Users can 
 
 ## Project Structure
 
-src/: Contains all source code
-components/: Contains the Weather component
-assets/: Contains icons used in the app
-App.jsx: Main app component
-main.jsx: Entry point for the React app
-public/: Contains the HTML template
+- `src/`: Contains all source code
+  - `components/`: Contains the Weather component
+  - `assets/`: Contains icons used in the app
+  - `App.jsx`: Main app component
+  - `main.jsx`: Entry point for the React app
+- `public/`: Contains the HTML template
+```
