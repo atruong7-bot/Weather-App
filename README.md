@@ -34,4 +34,5 @@ This Weather App provides real-time weather information for any city. Users can 
   - `App.jsx`: Main app component
   - `main.jsx`: Entry point for the React app
 - `public/`: Contains the HTML template
-```
+
+<img width="1710" alt="Screenshot 2024-07-01 at 4 48 40 PM" src="https://github.com/atruong7-bot/Weather-App/assets/89700834/76043da7-26bb-43da-bfef-59ff1827f77f">
